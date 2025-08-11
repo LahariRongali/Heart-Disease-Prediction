@@ -62,6 +62,7 @@ The dataset contains 14 clinical features:
 > ✅ Best performing models: **Logistic Regression** and **Naive Bayes**, both achieving **85.25% accuracy**
 
 ## 📁 Repository Structure
+Heart-Disease-Prediction/ │ ├── Heart_Disease_Prediction.ipynb # Main notebook with code and results ├── Heart_Disease_Prediction.html # HTML export of the notebook ├── README.md # Project documentation
 
 ## 🛠️ Tech Stack
 - Python
